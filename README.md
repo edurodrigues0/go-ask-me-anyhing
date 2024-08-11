@@ -28,7 +28,7 @@ O backend do projeto foi construído utilizando as seguintes tecnologias:
 1. **Clone o repositório:**
 
 ```bash
-git clone git@github.com:edurodrigues0/fundamentos-go.git
+git clone git@github.com:edurodrigues0/go-ask-me-anyhing.git
 cd ama-backend
 ```
 
