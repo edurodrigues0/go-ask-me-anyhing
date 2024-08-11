@@ -346,6 +346,7 @@ func (h apiHandler) handleReactToMessage(w http.ResponseWriter, r *http.Request)
 		},
 	})
 }
+
 func (h apiHandler) handleRemoveReactFromMessage(w http.ResponseWriter, r *http.Request) {
 	_, rawRoomID, _, ok := h.readRoom(w, r)
 	if !ok {
