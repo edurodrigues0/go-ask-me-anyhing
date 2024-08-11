@@ -27,10 +27,10 @@ O backend do projeto foi construído utilizando as seguintes tecnologias:
 
 1. **Clone o repositório:**
 
-   ```bash
-   git clone git@github.com:edurodrigues0/fundamentos-go.git
-   cd ama-backend
-  ```
+```bash
+git clone git@github.com:edurodrigues0/fundamentos-go.git
+cd ama-backend
+```
 
 2.  **Configure as variáveis de ambiente:**
 
